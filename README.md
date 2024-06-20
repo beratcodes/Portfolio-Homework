@@ -19,4 +19,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1. Bu repo'yu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/portfolyo.git
+   git clone https://github.com/beratcodes/portfolyo.git
