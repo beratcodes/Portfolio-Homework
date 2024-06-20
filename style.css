@@ -1,0 +1,128 @@
+* {
+    font-family: Arial, sans-serif;
+}    
+
+body {
+    margin: 0px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 32px;
+}
+
+.links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 16px;
+}
+
+.contact {
+  background-color: #F3FF90;
+  padding: 16px 24px;
+  color: #FF8F00;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.contact:hover {
+    opacity: 0.8;
+}
+
+.nav-section {
+    background-color: #059212;
+    min-height: 90vh;
+    color: white;
+}
+
+.personel-div {
+    padding: 0 20%;
+}
+
+.title {
+    font-size: 60px;
+    letter-spacing: 2px;
+    padding: 30px 0px;
+}
+
+.about-me {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-me p {
+    width: 50%;
+}
+
+.skills {
+    display: flex;
+    width: 50%;
+    list-style-type: none;
+}
+
+.skills li {
+    padding: 15px;
+}
+
+.about-section {
+    background-color: #9BEC00;
+    padding: 64px 20%;
+}
+
+.main-title {
+    font-size: 64px;
+}
+
+.blog-text {
+    font-size: 20px;
+}
+
+.blog-title {
+    font-weight: 500;
+}
+
+.about-post {
+    margin-top: 10px;
+}
+
+.portfolyo-section {
+    padding: 64px 20%;
+    background-color: #F3FF90;
+}
+
+.portfolyo-title {
+    font-size: 64px;
+    font-weight: bolder;
+}
+
+.portfolyo-text {
+    font-size: 20px;
+}
+
+.portfolyo-title {
+    font-weight: 500;
+}
+
+.portfolyo-post {
+    margin-top: 10px;
+}
+
+/* footer */
+
+footer {
+    background-color: black;
+    padding: 64px;
+}
+
+.footer-content img {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+}    
+
+.footer-content {
+    text-align: center;
+}
+
