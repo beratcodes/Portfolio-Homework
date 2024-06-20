@@ -19,4 +19,4 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleye
 
 1. Bu repo'yu klonlayın:
    ```bash
-   git clone https://github.com/beratcodes/portfolyo.git
+   https://github.com/beratcodes/Portfolio-Homework.git
